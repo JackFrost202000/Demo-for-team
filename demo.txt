@@ -1,1 +1,3 @@
-Trying to push changes on new branch
+Trying to push changes on new branch 
+
+first line for conflict
